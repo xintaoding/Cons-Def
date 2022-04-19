@@ -10,4 +10,5 @@ This work is accepted in IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS for publica
 Xintao Ding, Yongqiang Cheng, Yonglong Luo, Qingde Li, and Prosanta Gope, Consensus Adversarial Defense Method Based on Augmented Examples, IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS.
 
 Thanks the authors of CleverHans, this demo is implemented based on some library functions from CleverHans.
+
 Thanks the git user panjq, we can train Inecption model on ImageNet.
