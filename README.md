@@ -1,4 +1,11 @@
 # Cons-Def
+
+# Consensus Adversarial Defense Method Based on Augmented Examples
+Anhui Normal University
+School of Computer and Information, Wuhu, Anhui, China
+241002
+Xintao Ding (xintaoding@163.com)
+
 Adversarial defense, consensus defense, python, mnist, Cifar10, ImageNet
 This work is run for Consensus defense against FGSM, CW, PGD, and DeepFool attacks on MNIST, CIFAR-10, and ImageNet.
 Both white-attacks and black-attacks are implemented in this repository.
