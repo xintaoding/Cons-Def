@@ -1,9 +1,13 @@
 # Cons-Def
 
 # Consensus Adversarial Defense Method Based on Augmented Examples
+
 Anhui Normal University
+
 School of Computer and Information, Wuhu, Anhui, China
+
 241002
+
 Xintao Ding (xintaoding@163.com)
 
 Adversarial defense, consensus defense, python, mnist, Cifar10, ImageNet
